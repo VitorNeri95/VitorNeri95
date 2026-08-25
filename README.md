@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá! Eu sou o Vitor 👋
 
-<!--
-**VitorNeri95/VitorNeri95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante e desenvolvedor em formação, interessado principalmente em **desenvolvimento de software** e **desenvolvimento de jogos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou focado em aprimorar meus conhecimentos em **Python** e expandindo minhas habilidades em tecnologias como **JavaScript, HTML, CSS e C#**. Gosto de aprender na prática, criando projetos e explorando novas tecnologias.
+
+### 🛠️ Linguagens e Ferramentas
+
+* **Linguagens:** Python, JavaScript e C#
+
+* **Web:** HTML e CSS
+
+* **Game Development:** Unity
+
+* **Ferramentas:** Git e GitHub
+
+### 📚 Atualmente estudando
+
+* Python
+
+* JavaScript
+
+* HTML e CSS
+
+* C#
+
+### 🚀 Projetos
+
+* **Jogo de Plataforma 2D** — Jogo desenvolvido utilizando **Unity e C#**, com sistemas de movimentação, pulo, ataque, dash, inimigos, sistema de vida e animações.
